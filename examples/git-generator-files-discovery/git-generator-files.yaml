@@ -13,7 +13,7 @@ spec:
     metadata:  
       name: '{{cluster.name}}-guestbook'  
     spec:  
-      project: 0e964829
+      project: "0e964829"
       source:  
         repoURL: https://github.com/lorenyeung/applicationset.git  
         targetRevision: HEAD  
