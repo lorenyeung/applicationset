@@ -5,5 +5,5 @@
     "name" : "engineering-dev"
   },
   "aws_account" : "123456",
-  "asset_id" : "<+input>"
+  "asset_id" : "12"
 }
